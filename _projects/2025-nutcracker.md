@@ -15,7 +15,7 @@ Given Information:
 -The average max grip strength of a male = 50kg --> 500N 
 -The average radius of a nut = 20mm 
 
-![Plan and Solution to design a nutcracker]({{ "/assets/images/Plan-Solution.png" | relative_url }}){: .inline-image-r style="width: 200px"}
+![Plan and Solution to design a nutcracker]({{ "/assets/images/Plan-Solution.png" | relative_url }}){: .inline-image-r style="width: 300px"}
 
 ![Photo of nutcracker]({{ "/assets/images/hw-4.png" | relative_url }}){: .inline-image-l style="width: 300px"}
 
