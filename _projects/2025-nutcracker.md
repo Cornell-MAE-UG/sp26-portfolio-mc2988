@@ -16,7 +16,7 @@ Given Information:
 * The average radius of a nut = 20mm 
 
 Plan and solution: 
-![Plan and Solution to design a nutcracker]({{ "/assets/images/Plan-Solution.png" | relative_url }}){: .inline-image-l style="width: 350px"}
+![Plan and Solution to design a nutcracker]({{ "/assets/images/Plan-Solution.png" | relative_url }}){: .center-image style="width: 350px"}
 
 ![Photo of nutcracker]({{ "/assets/images/hw-4.png" | relative_url }}){: .inline-image-r style="width: 200px"}
 
