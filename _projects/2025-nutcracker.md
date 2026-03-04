@@ -8,7 +8,7 @@ technologies: [N/A]
 For a class, we were tasked with designing a nutcracker using the skills we've learned about FBD analysis. With this we were to understand the purpose of mechanical advantages and how they are used in every day situations. 
 
 Find (objective): 
--Design a nutcracker
+* Design a nutcracker
 
 Given Information: 
 * The average load needed to crack a Macadamia Nut = 220 N 
