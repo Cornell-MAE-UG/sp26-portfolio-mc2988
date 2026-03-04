@@ -9,7 +9,9 @@ For a class, we were tasked with designing a nutcracker using the skills we've l
 
 Find (objective): 
 -Design a nutcracker
-![Plan and Solution to design a nutcracker]({{ "/assets/images/Plan-Solution.png" | relative_url }}){: .inline-image-r style="width: 350px"}
+
+Plan and solution: 
+![Plan and Solution to design a nutcracker]({{ "/assets/images/Plan-Solution.png" | relative_url }}){: .inline-image-l style="width: 350px"}
 
 Given Information: 
 * The average load needed to crack a Macadamia Nut = 220 N 
