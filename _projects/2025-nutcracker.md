@@ -9,13 +9,12 @@ For a class, we were tasked with designing a nutcracker using the skills we've l
 
 Find (objective): 
 -Design a nutcracker
+![Plan and Solution to design a nutcracker]({{ "/assets/images/Plan-Solution.png" | relative_url }}){: .inline-image-r style="width: 400px"}
 
 Given Information: 
 -The average load needed to crack a Macadamia Nut = 220 N 
 -The average max grip strength of a male = 50kg --> 500N 
 -The average radius of a nut = 20mm 
-
-![Plan and Solution to design a nutcracker]({{ "/assets/images/Plan-Solution.png" | relative_url }}){: .inline-image-r style="width: 400px"}
 
 ![Photo of nutcracker]({{ "/assets/images/hw-4.png" | relative_url }}){: .inline-image-l style="width: 75px"}
 
