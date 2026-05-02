@@ -39,5 +39,5 @@ Plugging x = 133 mm in, we find EI·y(133) = −236,870,914 N·mm³. Setting thi
 When choosing the size I decided to go with a hollow cylinder because it is spatially efficient. This leaves me with a Imin of 1.24200 × 10^-9, in which I assume it has a rectangular cross section such that b=h/2, which results in the dimensions h = 13.1 mm and b= 6.6mm. 
 
 This leaves us with the final design of: 
-![final design]({{ "/assets/images/final.jpg" | relative_url }}){: .center-image style="display: block; width: 350px"}
+![final design]({{ "/assets/images/final.jpg" | relative_url }}){: .center-image style="display: block; width: 400px"}
 
