@@ -28,7 +28,7 @@ Eventually I ended up choosing the IP65 mini linear actuator, which has a max fo
 
 However, when I started to consider the nutcracker as a non-rigid beam, we had to change the way we approached the problem. In this scenario, the FBD of ONE handle looked like this: 
 
-![free body diagram]({{ "/assets/images/fbd.png" | relative_url }}){: .inline-image-r style="width: 200px"}
+![free body diagram]({{ "/assets/images/fbd.png" | relative_url }}){: .inline-image-r style="width: 250px"}
 
 The first thing I figured out was where the location of maximum deflection is. Assuming that the deflection at A and B are both 0, we can find the max deflection will occur at C because it is the superposition of the rigid rotation about B and local bending it experiences at C. 
 
